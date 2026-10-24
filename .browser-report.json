@@ -1,0 +1,21 @@
+{
+  "failures": [
+    {
+      "page": "/home-page-otimizada/",
+      "bad": [
+        "404 http://127.0.0.1:52814/wp-content/uploads/2022/12/atendja-1024x4001-1.png",
+        "404 http://127.0.0.1:52814/wp-content/uploads/2023/02/parents-spending-time-with-their-daughter-removebg-preview.png"
+      ]
+    }
+  ],
+  "liveHits": [],
+  "brokenImages": [
+    {
+      "page": "/home-page-otimizada/",
+      "images": [
+        "http://127.0.0.1:52814/wp-content/uploads/2022/12/atendja-1024x4001-1.png",
+        "http://127.0.0.1:52814/wp-content/uploads/2023/02/parents-spending-time-with-their-daughter-removebg-preview.png"
+      ]
+    }
+  ]
+}
